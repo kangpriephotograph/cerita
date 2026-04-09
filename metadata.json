@@ -1,0 +1,5 @@
+{
+  "name": "CeritaAI",
+  "description": "Aplikasi pembuat cerita otomatis berdasarkan tema menggunakan Google Gemini AI.",
+  "requestFramePermissions": []
+}
